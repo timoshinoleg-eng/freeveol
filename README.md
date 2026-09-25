@@ -18,15 +18,15 @@ Open-source AI/MCP workbench для безопасного read-only анали�
 
 ### Mini Apps & interactive products
 
-- **Tower MAX** — mobile-first tower game для MAX Mini App с production-oriented CI и browser acceptance tests.
-- **Световой Рубеж** — TypeScript game MVP для MAX Mini App.
-- **OFELIYA: Strain Zero** — Phaser 3 / TypeScript action game с платформенным слоем MAX/Telegram, server-side social/competitive systems и production smoke tests.
-- **coder_survival** — Telegram Mini App с игровым web-интерфейсом.
+- [**Tower MAX**](https://gitverse.ru/freeveol/tower-max) — mobile-first tower game для MAX Mini App с production-oriented CI и browser acceptance tests.
+- [**Световой Рубеж**](https://gitverse.ru/freeveol/svetovoy-rubezh-max) — TypeScript game MVP для MAX Mini App.
+- [**OFELIYA: Strain Zero**](https://github.com/timoshinoleg-eng/ofeliya) — Phaser 3 / TypeScript action game с платформенным слоем MAX/Telegram, server-side social/competitive systems и production smoke tests.
+- [**coder_survival**](https://github.com/timoshinoleg-eng/coder_survival) — Telegram Mini App с игровым web-интерфейсом.
 
 ### MCP, integrations & automation
 
-- **avito-mcp** — MCP server fork с 148 upstream tools, ads domain и lookup helper.
-- **ChatBot24** — Telegram/MAX-боты, Mini Apps и B2B-интеграции.
+- [**avito-mcp**](https://github.com/timoshinoleg-eng/avito-mcp) — MCP server fork с 148 upstream tools, ads domain и lookup helper.
+- [**ChatBot24**](https://chatbot24.su/) — Telegram/MAX-боты, Mini Apps и B2B-интеграции.
 
 ## Технологии
 
